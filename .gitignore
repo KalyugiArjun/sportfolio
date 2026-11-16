@@ -1,0 +1,6 @@
+.node_modules_old/
+node_modules/
+.gemini/
+.env
+.DS_Store
+Thumbs.db
